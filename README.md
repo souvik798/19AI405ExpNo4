@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Varsha Ajith
-<h3>Register Number: 212221230118
+<h3>Name: SOUVIK KUNDU
+<h3>Register Number: 212221230105
 <H3>Aim:</H3>
 <p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
